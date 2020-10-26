@@ -451,5 +451,7 @@ public class Main {
 		//调用登录界面
 		m.login();
 
+		System.out.println("添加的内容，测试git和IDEA");
+
 	}
 }
